@@ -7,49 +7,71 @@
 🎓 **Computer Engineering Undergraduate** from Pune, India  
 💻 Skilled in **Java, Spring Boot, React, and MySQL**  
 🚀 Passionate about developing **secure, scalable, and real-world applications**  
-🤖 Exploring **AI tools, Cloud, and Backend Architecture**  
+🤖 Exploring **AI tools, Cloud Technologies, and Backend Architecture**  
 📈 Strong interest in **building and scaling digital products**  
 
 ---
 
 ### 🏢 Startup Experience  
 **Co-Founder – [TheBlack. Clothing Brand](https://theblack.co.in/)**  
-- Built and scaled a **Shopify-based e-commerce brand**, serving **100+ customers** with 95% satisfaction.  
+- Built and scaled a **Shopify-based e-commerce brand**, serving **100+ customers** with a 95% satisfaction rate.  
 - Managed **product design, inventory, pricing, and customer experience** end-to-end.  
-- Leveraged **business analytics** to track sales trends and improve performance.  
-- Expanded categories based on **market insights and consumer demand**.  
+- Leveraged **data analytics** to track sales trends and improve performance.  
+- Expanded product categories based on **market insights and consumer demand**.  
 
 ---
 
 ### 💻 Projects  
 
-#### 🏦 **BetaBank – Smart Banking System**  
-- Built a **secure online banking system** using **Spring Boot** and **MySQL**.  
-- Implemented **JWT authentication**, **role-based access control**, and **Hibernate ORM**.  
-- Performed **API testing** with Postman and followed **Agile practices**.  
+#### 🏦 **BetaBank – Smart Banking System**
+- Developed a **secure online banking platform** using **Spring Boot** and **MySQL**.  
+- Implemented **JWT authentication**, **role-based access**, and **Hibernate ORM**.  
+- Ensured reliability with **Postman API testing** and followed **Agile principles**.  
 
-#### 💼 **WorkConnect – Job Networking Platform**  
-- Developed a backend platform connecting **recruiters and job seekers** using **Spring Boot & REST APIs**.  
+#### 💼 **WorkConnect – Job Networking Platform**
+- Built a backend platform connecting **recruiters and job seekers** using **Spring Boot** and **REST APIs**.  
 - Integrated **DTOs**, **service-layer architecture**, and **secure login mechanisms**.  
-- Focused on scalability, exception handling, and clean code structure.  
+- Focused on **scalability, exception handling**, and **clean code architecture**.  
 
-#### 🤖 **Maze-Solving Robot**  
-- Designed a robot using **Arduino Nano** and **ultrasonic sensors** that solved mazes autonomously.  
-- Implemented **Left-Hand and Right-Hand algorithms** for path optimization.  
-- Secured **Top 5 positions** at *Technoxian Robo World Cup 2024 (International Event, Noida)*.  
+#### 🤖 **Maze-Solving Robot**
+- Designed a robot using **Arduino Nano** and **ultrasonic sensors** for autonomous maze solving.  
+- Implemented **Left-Hand and Right-Hand algorithms** for optimal navigation.  
+- Achieved **Top 5 position** at *Technoxian Robo World Cup 2024 (International Event, Noida)*.  
 
-#### 🏥 **Hospital Management System**  
+#### 🏥 **Hospital Management System**
 - Created a **web-based system** using **HTML, CSS, and JavaScript** for doctors, patients, and admins.  
-- Added features like **appointment scheduling** and **online consultation booking**.  
+- Included modules for **appointment scheduling**, **patient records**, and **online consultations**.  
 
 ---
 
-### 🧠 Tech Stack  
+### 🌱 Currently Learning
+- Advanced **Spring Boot** (Microservices, Security, Caching)  
+- Frontend frameworks – **React** and **Next.js**  
+- **AI tools** and **Cloud platforms** (Azure, AWS)  
+- Problem-solving on **LeetCode** & **HackerRank**  
+
+---
+
+### 🤝 Open Source Contributions
+- Participating in open-source repositories using **Spring Boot** & **REST APIs**.  
+- Contributing to small backend utilities and API integrations.  
+- Aiming to expand contributions to **AI-based and full-stack community projects**.  
+
+---
+
+### 🎯 Beyond Code
+- 🏏 Passionate about **cricket and fitness** – helps me stay consistent and disciplined.  
+- 🎵 Enjoy exploring **music, podcasts, and tech innovations**.  
+- 💬 Always open to collaborating on **creative and impactful tech ideas**.  
+
+---
+
+### 🧠 Tech Stack
 **Languages:** Java, JavaScript, SQL, HTML5, CSS3  
 **Frameworks:** Spring Boot, Spring Security, Hibernate, React, Tailwind CSS  
 **Database:** MySQL  
 **Tools:** IntelliJ IDEA, Postman, Git, GitHub, MySQL Workbench, VS Code  
-**Concepts:** RESTful APIs, OOP, Authentication & Authorization, Agile, API Testing  
+**Concepts:** REST APIs, OOP, Authentication & Authorization, Agile, API Testing  
 
 ---
 
@@ -57,6 +79,7 @@
 <p align="left">
 <a href="https://twitter.com/@prasads2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasads2508" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prasad-shinde-076ab9233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-shinde-076ab9233" height="30" width="40" /></a>
+<a href="mailto:prasadshinde1305@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
@@ -77,12 +100,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithprasad25&show_icons=true&theme=tokyonight" alt="Prasad Shinde GitHub stats" />
-
+  <img src="https://komarev.com/ghpvc/?username=codewithprasad25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithprasad25&show_icons=true&theme=tokyonight" alt="Prasad Shinde GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprasad25&theme=tokyonight" alt="GitHub streak stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithprasad25&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 <h3 align="center">⭐ “Code with clarity, build with purpose, and learn without limits.” ⭐</h3>
