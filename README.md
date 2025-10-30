@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Shinde</h1>
-<h3 align="center">Aspiring Java Full Stack Developer And Contributed In TheBlack. - Clothing Brand Startup from India</h3>
+<h3 align="center">Java Full Stack Developer And Contributed In TheBlack. - Clothing Brand Startup from India</h3>
 
-- Founded and manage an online clothing brand using Shopify, showcasing entrepreneurial and management skills. Successfully completed 30+ orders with a focus on timely delivery and excellent customer service. Gained expertise in Shopify for e-commerce management and store customization. Developed skills in product design, inventory management, pricing, and digital marketing. Leveraged business analytics to track sales and customer preferences, driving improvements. Expanding product categories to align with market trends and enhance customer satisfaction. [TheBlack. - Clothing Brand Startup](https://theblack.co.in/)
+- Founded and manage an online clothing brand using Shopify, showcasing entrepreneurial and management skills. Successfully completed 100+ orders with a focus on timely delivery and excellent customer service. Gained expertise in Shopify for e-commerce management and store customization. Developed skills in product design, inventory management, pricing, and digital marketing. Leveraged business analytics to track sales and customer preferences, driving improvements. Expanding product categories to align with market trends and enhance customer satisfaction. [TheBlack. - Clothing Brand Startup](https://theblack.co.in/)
 
 - Designed a web-based system using HTML, CSS, and JavaScript for patients, doctors, and administrators. Key features included appointment scheduling and online consultancy **Hospital Management System**
 
