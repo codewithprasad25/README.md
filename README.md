@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasad Shinde</h1>
+<h1 align="center">Hi , I'm Prasad Shinde</h1>
 <h3 align="center">Java Full Stack Developer | Co-Founder of <a href="https://theblack.co.in/" target="_blank">TheBlack</a> – A Clothing Brand Startup from India 🇮🇳</h3>
 
 ---
